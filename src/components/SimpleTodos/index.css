@@ -1,0 +1,24 @@
+.bg-con {
+  background-color: #ffc2a0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.todo-con {
+  background-color: #ffffff;
+  width: 75%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
